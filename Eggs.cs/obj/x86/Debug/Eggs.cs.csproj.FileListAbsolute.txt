@@ -1,0 +1,4 @@
+C:\Users\EAHSCS\Documents\GitHub\Chapter2\Ch2\Eggs.cs\bin\Debug\Eggs.cs.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter2\Ch2\Eggs.cs\bin\Debug\Eggs.cs.pdb
+C:\Users\EAHSCS\Documents\GitHub\Chapter2\Ch2\Eggs.cs\obj\x86\Debug\Eggs.cs.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter2\Ch2\Eggs.cs\obj\x86\Debug\Eggs.cs.pdb

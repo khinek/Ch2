@@ -1,0 +1,4 @@
+C:\Users\EAHSCS\Documents\GitHub\Chapter2\Ch2\Carpet.cs\bin\Debug\Carpet.cs.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter2\Ch2\Carpet.cs\bin\Debug\Carpet.cs.pdb
+C:\Users\EAHSCS\Documents\GitHub\Chapter2\Ch2\Carpet.cs\obj\x86\Debug\Carpet.cs.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter2\Ch2\Carpet.cs\obj\x86\Debug\Carpet.cs.pdb

@@ -1,0 +1,8 @@
+C:\Users\EAHSCS\AppData\Local\Temporary Projects\Ch2\bin\Debug\Ch2.exe
+C:\Users\EAHSCS\AppData\Local\Temporary Projects\Ch2\bin\Debug\Ch2.pdb
+C:\Users\EAHSCS\AppData\Local\Temporary Projects\Ch2\obj\x86\Debug\Ch2.exe
+C:\Users\EAHSCS\AppData\Local\Temporary Projects\Ch2\obj\x86\Debug\Ch2.pdb
+C:\Users\EAHSCS\Documents\GitHub\Chapter2\Ch2\Ch2\obj\x86\Debug\Ch2.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter2\Ch2\Ch2\obj\x86\Debug\Ch2.pdb
+C:\Users\EAHSCS\Documents\GitHub\Chapter2\Ch2\Ch2\bin\Debug\Ch2.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter2\Ch2\Ch2\bin\Debug\Ch2.pdb
