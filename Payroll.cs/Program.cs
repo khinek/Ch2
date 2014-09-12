@@ -7,33 +7,20 @@ namespace Payroll.cs
 {
     class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
+            string Name, SSM, double HPR, int NumberHoursWorked // input variables
+            double GrossPay = HPR * NumberHoursWorked, FWT = .15 * GrossPay, SWT = .5 * GrossPay, NetPay = GrossPay - (FWT + SWT) //calculating variables;
+            string input;
             
-            Console.WriteLine("Enter your name: ");
-            string name = Console.ReadLine();
-            Console.WriteLine("Social Security Number: ");
-            string SSN = Console.ReadLine();
-            Console.WriteLine("Enter hourly pay rate: ");
-            double HPR = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Enter number hours worked: ");
-            double NumberHoursWorked = Convert.ToDouble(Console.ReadLine());
+            double PayRate;
 
-            double GrossPay = HPR * NumberHoursWorked;
-            double FWT = .15 * GrossPay;
-            double SWT = .5 * GrossPay;
-            double NetPay = GrossPay - (FWT + SWT);
+            Console.Write("Enter a double: ");
+            input = Console.ReadLine();
+            PayRate = Convert.ToDouble(input);
 
-            Console.WriteLine("\n\nPayroll summary for: " + name);
-            Console.WriteLine("SSN: " + SSN);
-            Console.WriteLine("You worked " + NumberHoursWorked + " hours at $" + HPR + " per hour.\n");
-            Console.WriteLine("Gross pay: \t\t\t" + "$" + GrossPay);
-            Console.WriteLine("Federal witholding: \t\t" + "$" + FWT);
-            Console.WriteLine("State witholding: \t\t" + "$" + SWT);
-            Console.WriteLine("________________________________________________");
-            Console.WriteLine("Net pay: \t\t\t" + "$" + NetPay);
 
-            Console.ReadLine(); //keeps the console open 
+
 
             /*
             bool success = double.TryParse(Console.ReadLine(), out PayRate);
