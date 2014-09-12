@@ -1,0 +1,4 @@
+C:\Users\alexadb123\Documents\GitHub\Ch2\Payroll.cs\bin\Debug\Payroll.cs.exe
+C:\Users\alexadb123\Documents\GitHub\Ch2\Payroll.cs\bin\Debug\Payroll.cs.pdb
+C:\Users\alexadb123\Documents\GitHub\Ch2\Payroll.cs\obj\x86\Debug\Payroll.cs.exe
+C:\Users\alexadb123\Documents\GitHub\Ch2\Payroll.cs\obj\x86\Debug\Payroll.cs.pdb

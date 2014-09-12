@@ -2,3 +2,7 @@ C:\Users\EAHSCS\Documents\GitHub\Chapter2\Ch2\HoursAndMinutes.cs\bin\Debug\Hours
 C:\Users\EAHSCS\Documents\GitHub\Chapter2\Ch2\HoursAndMinutes.cs\bin\Debug\HoursAndMinutes.cs.pdb
 C:\Users\EAHSCS\Documents\GitHub\Chapter2\Ch2\HoursAndMinutes.cs\obj\x86\Debug\HoursAndMinutes.cs.exe
 C:\Users\EAHSCS\Documents\GitHub\Chapter2\Ch2\HoursAndMinutes.cs\obj\x86\Debug\HoursAndMinutes.cs.pdb
+C:\Users\alexadb123\Documents\GitHub\Ch2\HoursAndMinutes.cs\bin\Debug\HoursAndMinutes.cs.exe
+C:\Users\alexadb123\Documents\GitHub\Ch2\HoursAndMinutes.cs\bin\Debug\HoursAndMinutes.cs.pdb
+C:\Users\alexadb123\Documents\GitHub\Ch2\HoursAndMinutes.cs\obj\x86\Debug\HoursAndMinutes.cs.exe
+C:\Users\alexadb123\Documents\GitHub\Ch2\HoursAndMinutes.cs\obj\x86\Debug\HoursAndMinutes.cs.pdb

@@ -2,3 +2,7 @@ C:\Users\EAHSCS\Documents\GitHub\Chapter2\Ch2\Yards.cs\bin\Debug\Yards.cs.exe
 C:\Users\EAHSCS\Documents\GitHub\Chapter2\Ch2\Yards.cs\bin\Debug\Yards.cs.pdb
 C:\Users\EAHSCS\Documents\GitHub\Chapter2\Ch2\Yards.cs\obj\x86\Debug\Yards.cs.exe
 C:\Users\EAHSCS\Documents\GitHub\Chapter2\Ch2\Yards.cs\obj\x86\Debug\Yards.cs.pdb
+C:\Users\alexadb123\Documents\GitHub\Ch2\Yards.cs\bin\Debug\Yards.cs.exe
+C:\Users\alexadb123\Documents\GitHub\Ch2\Yards.cs\bin\Debug\Yards.cs.pdb
+C:\Users\alexadb123\Documents\GitHub\Ch2\Yards.cs\obj\x86\Debug\Yards.cs.exe
+C:\Users\alexadb123\Documents\GitHub\Ch2\Yards.cs\obj\x86\Debug\Yards.cs.pdb
